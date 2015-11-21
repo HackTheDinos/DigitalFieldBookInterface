@@ -3,10 +3,9 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+/*Ar styles*/
 .center-it{float:none !important; margin:0 auto;}
-
-
+.quicktab-buttons{width:100%; padding:50px; text-align:center; color:#FFF; background:#00F;}
 
 
 
