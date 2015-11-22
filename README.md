@@ -1,2 +1,0 @@
-# DigitalFieldBookInterface
-Digital Fieldbook - interface

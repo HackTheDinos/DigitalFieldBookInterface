@@ -2389,7 +2389,12 @@ output {
 }
 .form-control[disabled],
 .form-control[readonly],
-fieldset[disabled] .form-control {
+fieldset[disabled] .        <style>
+            body {
+                padding-top: 50px;
+                padding-bottom: 20px;
+            }
+        </style> {
   cursor: not-allowed;
   background-color: #eee;
   opacity: 1;
